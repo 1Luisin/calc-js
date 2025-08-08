@@ -1,8 +1,14 @@
+const InputValue = document.getElementById("valor");
+const InputDate = document.getElementById("time");
+const InputBottom = document.getElementById("bottom");
 
-const valor = document.getElementById('quantia');
-
-      function Calculador(){
-        valor.quantia= 'R$' + quantia;
-        console.log(valor.quantia);
-
+const Valor = InputValue.value;
+const Botao = InputBottom.value;
+    
+    if(Botao == true){
+        console.log(Valor);
     }
+
+    
+    
+    
