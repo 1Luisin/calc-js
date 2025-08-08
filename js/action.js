@@ -9,7 +9,6 @@ event.preventDefault();
   const Botao = InputBottom.value;
 
   var Resultado = Valor * Tempo;
-  var resto = 
   document.getElementById("resultado").textContent = "A quantia que você juntará será de: R$" + Resultado;
 
 });
