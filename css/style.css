@@ -6,4 +6,14 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 6%;
+    background-color: bisque;
+    color:rgb(15, 70, 19);
+}
+
+#copy{
+
+    text-align: center;
+    font-size:10px;
+    font-family: 'Courier New', Courier, monospace;
+
 }
