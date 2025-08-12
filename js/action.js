@@ -2,7 +2,7 @@ document.getElementById("Form").addEventListener("submit", function (event) {
 event.preventDefault();
   const InputValue = document.getElementById("valor");
   const InputDate = document.getElementById("time");
-  const InputBottom = document.getElementById("bottom");
+  const InputBottom = document.getElementsByClassName("bottom");
 
   const Valor = InputValue.value;
   const Tempo = InputDate.value;
@@ -13,3 +13,4 @@ event.preventDefault();
 
   
 });
+

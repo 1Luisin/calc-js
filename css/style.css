@@ -16,9 +16,26 @@
     font-size:10px;
     font-family:Arial, Helvetica, sans-serif;
     padding-top: 500px;
+    color:black;
 
 }
 
-#bottom{
-    cursor:grab;
+.bottom{
+    cursor:pointer;
+    border-color: rgb(28, 71, 36);
+    border-style: solid ;
+    border-radius:10px
+}
+
+#time{
+    border-color: rgb(28, 71, 36);
+    border-style: solid ;
+    border-radius:5px
+
+}   
+
+#valor{
+    border-color: rgb(28, 71, 36);
+    border-style: solid ;
+    border-radius:5px
 }
