@@ -10,4 +10,4 @@ Calculadora de armazenamento monetário com base no período que irá ser armaze
  
  ## Objetivo
 
- Treinar a junção das 3 tecnologias em um site simples.
+ Calcular de forma simples e direta o quanto você irá ter x o tempo que você irá armazenar.
